@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Components-Checkpoint.gitgit/static/css/main.9c278904.chunk.css",
+    "main.js": "/React-Components-Checkpoint.gitgit/static/js/main.0ee573b6.chunk.js",
+    "main.js.map": "/React-Components-Checkpoint.gitgit/static/js/main.0ee573b6.chunk.js.map",
+    "runtime-main.js": "/React-Components-Checkpoint.gitgit/static/js/runtime-main.d514278b.js",
+    "runtime-main.js.map": "/React-Components-Checkpoint.gitgit/static/js/runtime-main.d514278b.js.map",
+    "static/js/2.3fe57f69.chunk.js": "/React-Components-Checkpoint.gitgit/static/js/2.3fe57f69.chunk.js",
+    "static/js/2.3fe57f69.chunk.js.map": "/React-Components-Checkpoint.gitgit/static/js/2.3fe57f69.chunk.js.map",
+    "index.html": "/React-Components-Checkpoint.gitgit/index.html",
+    "precache-manifest.a6d67643d24ce0a5be5e505fd352a291.js": "/React-Components-Checkpoint.gitgit/precache-manifest.a6d67643d24ce0a5be5e505fd352a291.js",
+    "service-worker.js": "/React-Components-Checkpoint.gitgit/service-worker.js",
+    "static/css/main.9c278904.chunk.css.map": "/React-Components-Checkpoint.gitgit/static/css/main.9c278904.chunk.css.map",
+    "static/js/2.3fe57f69.chunk.js.LICENSE.txt": "/React-Components-Checkpoint.gitgit/static/js/2.3fe57f69.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d514278b.js",
+    "static/js/2.3fe57f69.chunk.js",
+    "static/css/main.9c278904.chunk.css",
+    "static/js/main.0ee573b6.chunk.js"
+  ]
+}
